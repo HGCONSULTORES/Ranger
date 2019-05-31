@@ -6,3 +6,7 @@
 	path = mexico
 	url = git@github.com:vauxoo/mexico.git
 	branch = 11.0
+[submodule "vendor-bills"]
+	path = vendor-bills
+	url = git@git.vauxoo.com:vauxoo/vendor-bills
+	branch = 11.0
