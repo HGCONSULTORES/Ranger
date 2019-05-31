@@ -1,0 +1,4 @@
+[submodule "xunnel-account"]
+	path = xunnel-account
+	url = git@git.vauxoo.com:vauxoo/xunnel-account.git
+	branch = 11.0
